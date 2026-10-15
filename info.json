@@ -1,0 +1,4 @@
+{
+  "version": "1.0.1",  <-- Change this number!
+  "url": "https://github.com/IbreeZ02/ESP32_PullOTA/raw/refs/heads/main/pullOTA.ino.bin"
+}
